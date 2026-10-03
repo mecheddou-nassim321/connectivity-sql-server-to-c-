@@ -1,1 +1,1 @@
-# connectivity-sql-server-to-c-
+# connectivity-sql-server-to-c sharp
